@@ -1,5 +1,4 @@
 % Author: Anand Singh, Graduate Student, IIT Kharagpur 
-% Email: anandkpuc.iitkgp@gmail.com
 % ESSC Workshop "Matlab for Geoscience" 2015 
 clear all
 close all
